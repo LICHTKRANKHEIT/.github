@@ -1,5 +1,8 @@
 # LICHTKRANKHEIT
 
+**English** / [한국어](.README.md)
+
+
 ## About Us
 **LICHTKRANKHEIT** operates on a unique **decentralized model**. Instead of a rigid hierarchy, we're comprised of numerous **autonomous sub-groups**. Each sub-group is identified by a unique numerical code (e.g., `101`, `102`, `201`, `203`, etc.), signifying its independent activity within our collective.
 
