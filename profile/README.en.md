@@ -1,6 +1,6 @@
 # LICHTKRANKHEIT
 
-**English** / [한국어](.README.md)
+**English** / [한국어](README.md)
 
 
 ## About Us
