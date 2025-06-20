@@ -40,7 +40,6 @@ This structure enables:
   | 202 | YouJJeb, Noa-GUS, ~~jroLia~~, ~~Sample~~ | 4 | Discord Bot Development |
   | 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | KaKaoTalk Bot Development |
   | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | Website Development (extension) |
-  | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | Website Development (extension) |
   | 302 | YouJJeb, 2oic | 2 | App Development |
   | 303 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic, ~~Violent~~, ~~userE~~ | 10 | Social / Fellowship |
   | 402 | LIHUA628, Skyyype | 2 | Discord Bot Development |
