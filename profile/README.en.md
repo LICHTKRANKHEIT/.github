@@ -1,6 +1,6 @@
 # LICHTKRANKHEIT
 
-**English** / [한국어](README.md)
+[한국어](README.md) / **English** 
 
 
 ## About Us
@@ -33,23 +33,24 @@ This structure enables:
   
   | Team Number | Members | Member Count | Main Activity Field |
   | --- | --- | --- | --- |
-  | 101 | LIHUA628, YeongGyu | 2 | KaKaoTalk Bot |
-  | 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | KaKaoTalk Bot | 
-  | 105 | YeongGyu, Noa-GUS, ~~Sample~~, ~~Violent~~ | 4 | KaKaoTalk Bot |
-  | 201 | LIHUA628, Sicxor, ~~Sample~~, ~~Violent~~, ~~jroLia~~ | 5 | Website |
-  | 202 | YouJJeb, Noa-GUS, jroLia, Sample | 4 | KaKaoTalk Bot |
-  | 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | KaKaoTalk Bot |
-  | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | Website (extension) |
-  | 302 | YouJJeb, 2oic | 2 |  |
-  | 303 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic, ~~Violent~~, ~~userE~~ | 10 | 친목 |
-  | 402 | LIHUA628, Skyyype | 2 | KaKaoTalk Bot |
-  | 404 | LIHUA628, Skyyype, YeongGyu, Sicxor | 4 | 앱 |
-  | 405 | DarkSnowFlower, Sicxor | 2 | 마인크래프트 개발 |
-  | 501 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic | 8 | 친목 |
-  | 503 | 2oic, YouJJeb, Sicxor | 3 | 마인크래프트 개발 |
-  | 504 | Skyyype, 2oic, YouJJeb, LIHUA628 | 4 | Website (extension)
-  | 507 | LIHUA628, Sicxor, YouJJeb, YeongGyu | 4 | KaKaoTalk Bot |
-  | 601 | **모집 중** | undefined | undefined |
+  | 101 | LIHUA628, YeongGyu | 2 | KaKaoTalk Bot Development |
+  | 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | KaKaoTalk Bot Development | 
+  | 105 | YeongGyu, Noa-GUS, ~~Sample~~, ~~Violent~~ | 4 | KaKaoTalk Bot Development |
+  | 201 | LIHUA628, Sicxor, ~~Sample~~, ~~Violent~~, ~~jroLia~~ | 5 | Website Development |
+  | 202 | YouJJeb, Noa-GUS, ~~jroLia~~, ~~Sample~~ | 4 | Discord Bot Development |
+  | 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | KaKaoTalk Bot Development |
+  | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | Website Development (extension) |
+  | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | Website Development (extension) |
+  | 302 | YouJJeb, 2oic | 2 | App Development |
+  | 303 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic, ~~Violent~~, ~~userE~~ | 10 | Social / Fellowship |
+  | 402 | LIHUA628, Skyyype | 2 | Discord Bot Development |
+  | 404 | LIHUA628, Skyyype, YeongGyu, Sicxor | 4 | App Development |
+  | 405 | DarkSnowFlower, Sicxor | 2 | Minecraft Plugin Development |
+  | 501 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic | 8 | Social / Fellowship |
+  | 503 | 2oic, YouJJeb, Sicxor | 3 | Minecraft Plugin Development |
+  | 504 | Skyyype, 2oic, YouJJeb, LIHUA628 | 4 | Website Development (extension) |
+  | 507 | LIHUA628, Sicxor, YouJJeb, YeongGyu | 4 | KaKaoTalk Bot Development |
+  | 601 | **Recruiting** | undefined | undefined |
     
 </details>
 
