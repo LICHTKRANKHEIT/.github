@@ -54,6 +54,4 @@ LICHTKRANKHEIT 자체는 특정한 목표를 가지지 않습니다.\
 
 ## 문의하기
 
-LICHTKRANKHEIT에 대한 일반적인 문의 사항이 있거나, 새로운 하위 그룹이 지침을 찾고 있다면, 이 저장소에 이슈를 열거나 [영규(관리자)](mailto.lichtkrankheit@gmail.com) 또는 [이화(부 관리자)](mailto.lihua628.biz@gmail.com) 을 통해 저희에게 연락해 주세요.
-
----
+LICHTKRANKHEIT에 대한 일반적인 문의 사항이 있거나, 새로운 하위 그룹이 지침을 찾고 있다면, 아래 연락처를 통헤 저희에게 연락해주세요!
