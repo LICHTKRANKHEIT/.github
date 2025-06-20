@@ -25,31 +25,30 @@ LICHTKRANKHEIT 자체는 특정한 목표를 가지지 않습니다.\
 
 <details>
 <summary>
-  -
+  전체 하위 팀 목록
 </summary>
-   -
-</details>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+  
+  | 팀 번호 | 인원 | 인원 수 | 주요 활동 분야 |
+  | --- | --- | --- | --- |
+  | 101 | LIHUA628, YeongGyu | 2 | 카카오톡 봇 |
+  | 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | 카카오톡 봇 | 
+  | 105 | YeongGyu, Noa-GUS, ~~Sample~~, ~~Violent~~ | 4 | 카카오톡 봇 |
+  | 201 | LIHUA628, Sicxor, ~~Sample~~, ~~Violent~~, ~~jroLia~~ | 5 | 웹사이트 |
+  | 202 | YouJJeb, Noa-GUS, jroLia, Sample | 4 | 카카오톡 봇 |
+  | 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | 카카오톡 봇 |
+  | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | 웹사이트 (extension) |
+  | 302 | YouJJeb, 2oic | 2 | 앱 |
+  | 303 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic, ~~Violent~~, ~~userE~~ | 10 | 친목 |
+  | 402 | LIHUA628, Skyyype | 2 | 카카오톡 |
+  | 404 | LIHUA628, Skyyype, YeongGyu, Sicxor | 4 | 앱 |
+  | 405 | DarkSnowFlower, Sicxor | 2 | 마인크래프트 개발 |
+  | 501 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic | 8 | 친목 |
+  | 503 | 2oic, YouJJeb, Sicxor | 3 | 마인크래프트 개발 |
+  | 504 | Skyyype, 2oic, YouJJeb, LIHUA628 | 4 | 웹사이트 (extension)
+  | 507 | LIHUA628, Sicxor, YouJJeb, YeongGyu | 4 | 카카오톡 봇 |
+  | 601 | **모집 중** | undefined | undefined |
 
-| 팀 번호 | 인원 | 인원 수 | 주요 활동 분야 |
-| --- | --- | --- | --- |
-| 101 | LIHUA628, YeongGyu | 2 | 카카오톡 봇 |
-| 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | 카카오톡 봇 | 
-| 105 | YeongGyu, Noa-GUS, ~~Sample~~, ~~Violent~~ | 4 | 카카오톡 봇 |
-| 201 | LIHUA628, Sicxor, ~~Sample~~, ~~Violent~~, ~~jroLia~~ | 5 | 웹사이트 |
-| 202 | YouJJeb, Noa-GUS, jroLia, Sample | 4 | 카카오톡 봇 |
-| 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | 카카오톡 봇 |
-| 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | 웹사이트 (extension) |
-| 302 | YouJJeb, 2oic | 2 | 앱 |
-| 303 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic, ~~Violent~~, ~~userE~~ | 10 | 친목 |
-| 402 | LIHUA628, Skyyype | 2 | 카카오톡 |
-| 404 | LIHUA628, Skyyype, YeongGyu, Sicxor | 4 | 앱 |
-| 405 | DarkSnowFlower, Sicxor | 2 | 마인크래프트 개발 |
-| 501 | LIHUA628, YeongGyu, DarkSnowFlower, Sicxor, YouJJeb, Skyyype, Noa-GUS,  2oic | 8 | 친목 |
-| 503 | 2oic, YouJJeb, Sicxor | 3 | 마인크래프트 개발 |
-| 504 | Skyyype, 2oic, YouJJeb, LIHUA628 | 4 | 웹사이트 (extension)
-| 507 | LIHUA628, Sicxor, YouJJeb, YeongGyu | 4 | 카카오톡 봇 |
-| 601 | **모집 중** | undefined | undefined |
+</details>
 
 ---
 
