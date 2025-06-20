@@ -22,7 +22,7 @@ LICHTKRANKHEIT 자체는 특정한 목표를 가지지 않습니다.\
 ---
 
 ## Team
-| 팀 번호 | 인원 | 주요 활동 분야 |
+| 팀 번호 | 인원 | 인원 수 | 주요 활동 분야 |
 | --- | --- | --- |
 | 101 | LIHUA628, YeongGyu | 2 | 카카오톡 봇 |
 | 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | 카카오톡 봇 | 
