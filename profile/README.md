@@ -57,3 +57,8 @@ LICHTKRANKHEIT 자체는 특정한 목표를 가지지 않습니다.\
 ## 문의하기
 
 LICHTKRANKHEIT에 대한 일반적인 문의 사항이 있거나, 새로운 하위 그룹이 지침을 찾고 있다면, 아래 연락처를 통헤 저희에게 연락해주세요!
+  
+### Email
+  - [Yeonggyu1110](mailto.yenggyu1110.work@gmail.com)
+  - [Lihua628](mailto.lihua628.biz@gmail.com)
+  - [Sicxor](mailto.sicxor0104@gmail.com)
