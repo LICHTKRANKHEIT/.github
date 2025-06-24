@@ -58,3 +58,8 @@ This structure enables:
 ## Contact Us
 
 If you have general inquiries about LICHTKRANKHEIT or if you're a new sub-group looking for guidance, please contact us via the information below!
+  
+### Email
+  - [Yeonggyu1110](mailto.yenggyu1110.work@gmail.com)
+  - [Lihua628](mailto.lihua628.biz@gmail.com)
+  - [Sicxor](mailto.sicxor0104@gmail.com)
