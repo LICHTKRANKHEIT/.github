@@ -36,7 +36,7 @@ LICHTKRANKHEIT 자체는 특정한 목표를 가지지 않습니다.\
   | 102 | LIHUA628, YeongGyu,  DarkSnowFlower, Noa-GUS, ~~Sample~~ | 5 | 카카오톡 봇 개발 | 
   | 105 | YeongGyu, Noa-GUS, ~~Sample~~, ~~Violent~~ | 4 | 카카오톡 봇 개발 개발 |
   | 201 | LIHUA628, Sicxor, ~~Sample~~, ~~Violent~~, ~~jroLia~~ | 5 | 웹사이트 개발 |
-  | 202 | YouJJeb, Noa-GUS, jroLia, Sample | 4 | 디스코드 봇 개발 |
+  | 202 | YouJJeb, Noa-GUS, ~~jroLia~~, ~~Sample~~ | 4 | 디스코드 봇 개발 |
   | 204 | YeongGyu, Skyyype, ~~userE~~ | 3 | 카카오톡 봇 개발 |
   | 205 | DarkSnowFlower, 2oic, LIHUA628, YeongGyu | 4 | 웹사이트 개발 (확장자) |
   | 302 | YouJJeb, 2oic | 2 | 앱 개발 |
